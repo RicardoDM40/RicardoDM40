@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn codes
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anyelse
-- 📫 How to reach me: Contact with messages here.
+- 📫 How to reach me: ricardodiasdemelo@gmail.com
 
 <!---
 RicardoDM40/RicardoDM40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
